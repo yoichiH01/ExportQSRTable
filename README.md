@@ -11,3 +11,6 @@ The scripts to Export Qlik Sense QSR Table into text files.
 # Requirement
 Qlik Sense September 2018 and November 2018
 
+
+# Disclaimer
+The scripts is not supported by Qlik. Please use it on your own risk. 
