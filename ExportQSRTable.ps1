@@ -19,7 +19,6 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE`
 # SOFTWARE.
-#ExportQSRTable version 1.0
 
 $PosgresLocation = "C:\Program Files\Qlik\Sense\Repository\PostgreSQL\9.6\bin"
 $PosgresLocation
