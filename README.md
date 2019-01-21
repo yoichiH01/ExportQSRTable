@@ -10,7 +10,7 @@ The scripts to Export Qlik Sense QSR Table into text files.
 6. Output will gerated into folder C:\yheTemp\QSR
 
 # Requirement
-Qlik Sense September 2018 or November 2018
+Qlik Sense April 2018, June 2018, September 2018 or November 2018
 
 
 # Disclaimer
