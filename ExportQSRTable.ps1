@@ -20,6 +20,16 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE`
 # SOFTWARE.
 
+if(Test-Path 'C:\yheTemp\QSR'){
+#Remove-Item -Recurse C:\yheTemp\QSR\
+$filename = Get-Date -Format "yyyy-MMdd-HHmmss"
+
+Rename-Item C:\yheTemp\QSR\ -NewName QSR_old_$($filename)
+New-Item C:\yheTemp\QSR -ItemType Directory}
+else{
+New-Item C:\yheTemp\QSR -ItemType Directory}
+
+
 $PosgresLocation = "C:\Program Files\Qlik\Sense\Repository\PostgreSQL\9.6\bin"
 $PosgresLocation
 $sql = "C:\yheTemp\ExportQSRTable.sql"
