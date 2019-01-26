@@ -7,7 +7,7 @@ The scripts to Export Qlik Sense QSR Table into text files.
 3. Open Windows Powershell and move to the folder C:\yheTemp on Powershell Console
 4. Execute .\ExportQSRTableSize.ps1
 5. Enter database Superuser crendential
-6. Output is generated into folder C:\yheTemp\QSR. If there is pre-existing　QSR folder, the pre-existing folder will be renamed as QSR_old_datetime.
+6. Output is generated into folder C:\yheTemp\QSR. If there is pre-existing QSR folder, the pre-existing folder will be renamed as QSR_old_datetime.
 
 # Requirement
 Qlik Sense April 2018, June 2018, September 2018 or November 2018
