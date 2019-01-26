@@ -2,7 +2,7 @@
 The scripts to Export Qlik Sense QSR Table into text files.
 
 # Instruction
-1. Donwload ExportQSRTableSize.ps1 and ExportQSRTableSize.sql onto Qlik Sense Central node
+1. Choose the Qlik Sense version you use and donwload ExportQSRTableSize.ps1 and ExportQSRTableSize.sql onto Qlik Sense Central node
 2. Create folder C:\yheTemp on Qlik Sense Central node. Move files into folder C:\yheTemp.
 3. Open Windows Powershell and move to the folder C:\yheTemp on Powershell Console
 4. Execute .\ExportQSRTableSize.ps1
