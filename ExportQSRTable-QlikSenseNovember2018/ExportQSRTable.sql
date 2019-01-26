@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE`
 SOFTWARE.
 ExportQSRTable for QlikSense November 2018 version 1.0
 */
-
+set client_encoding to 'UTF8';
 copy public."__MigrationHistory" To 'C:\yheTemp\QSR\MigrationHistory.txt' WITH CSV HEADER;
 copy public."_deletedentitylog" To 'C:\yheTemp\QSR\deletedentitylog.txt' WITH CSV HEADER;
 copy public."_locktable" To 'C:\yheTemp\QSR\locktable.txt' WITH CSV HEADER;
