@@ -13,7 +13,7 @@ Known Limitation: If you observes Error such as: [encoding "UTF8" has no equival
 
 
 # Requirement
-Qlik Sense April 2018, June 2018, September 2018, November 2018 or February 2019
+Qlik Sense April 2018, June 2018, September 2018, November 2018, February 2019 or April 2019
 
 
 # Disclaimer
